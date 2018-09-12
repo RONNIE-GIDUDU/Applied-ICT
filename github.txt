@@ -1,0 +1,5 @@
+solving conflicts between branches 
+uploading files 
+creating branches
+merging files within braches 
+delecting branches 
